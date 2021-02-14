@@ -7,3 +7,16 @@
 
 
 (optional) : git push origin master-f 
+
+
+
+=============== Static Site List ===================
+
+1) https://tanvir-web-developer.github.io/Bizn/
+2) https://tanvir-web-developer.github.io/jayga/
+3) https://tanvir-web-developer.github.io/DH/
+4) https://tanvir-web-developer.github.io/bizness/
+5) https://tanvir-web-developer.github.io/cudam/
+6) https://tanvir-web-developer.github.io/cabhub/
+7) https://tanvir-web-developer.github.io/learningP/
+8) https://tanvir-web-developer.github.io/psycho/
