@@ -1,0 +1,9 @@
+1c: git init
+2c: git add .
+3c: git commit -m "Your Comment" 						-> It can be written anything like type of project hint
+4c: git remote add origin https://github.com/UserName/RepositoryName 		-> The command line can be collected in repository instruction
+5c: git push -u origin master							-> Push for Upload Files
+6s: git add FileName.FileExtension 						-> Specific file uploading cmd file full name with its extension
+
+
+(optional) : git push origin master-f 

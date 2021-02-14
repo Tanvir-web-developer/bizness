@@ -1,0 +1,170 @@
+@media(max-width: 1199px){
+	.slider-content{
+		width: 100%;
+		padding-left: 60px;
+		padding-right: 60px;
+	}
+}
+
+@media(max-width: 1024px){
+	.about{
+		margin-top: 60px;
+	}
+}
+
+
+
+@media(max-width: 768px){
+	.banner-content .our-btn {
+		font-size: 15px;
+		padding: 30px 30px;
+	}
+
+	.team-content h4 {
+		font-size: 15px;
+	}
+
+	.team-content p{
+		font-size: 12px;
+	}
+
+	.widget-social ul li a{
+		padding:6px;
+	}
+	.widget-one {
+		padding-bottom: 120px;
+	}
+
+	.slider-btn .our-btn {
+    margin-left: 50px;
+    margin-right: 60px;    
+	}
+
+	.slider-content .para-1 {
+    font-size: 20px;
+    font-weight: 300;
+	}
+
+	.widget-logo img {
+    height: 33px;
+	}
+
+	.top {
+    width: 50px;
+    height: 45px;
+    background: #212121;
+    text-align: center;
+    font-size: 25px;
+    line-height: 1.8;
+    position: fixed;
+    right: 15px;
+    bottom: 25px;
+    border-radius: 5px;
+	}
+
+	
+
+
+
+
+}
+
+
+@media (max-width: 767px){
+	.top-content{
+		display: block;
+		text-align: center;
+	}
+
+	.top-left ul,
+	.top-right ul{
+		display: block;
+	}
+
+	.top-left ul li, .top-right ul li {
+    padding-top: 5px;
+    padding-bottom: 5px;
+	}
+
+	.top-right ul li{
+		display: inline-block;
+	}
+
+	.header{
+		position: static;
+	}
+	.fixed .header{
+		position: static;
+	}
+
+	.slider{
+		padding:0;
+	}
+
+
+
+
+}
+
+
+@media (max-width: 425px){
+	.slider-content .para-2 {
+    font-size: 13px;
+	}
+
+	.slider {
+    position: relative;
+	}
+
+	.slider-content .para-1 {
+    font-size: 12px;
+	}
+	
+	.slider-content {   
+    top: 160%;
+	}
+
+	.slider-content h2 {
+    font-size: 25px;
+    margin-top: -15px;    
+	}
+		
+	.slider-content .para-2 {
+	    font-size: 10px;
+	    margin-top: 10px;
+	    margin-bottom: 320px;
+	}
+
+	.slider-arrow .left-arrow, .slider-arrow .right-arrow{
+		font-size: 15px;
+	}
+
+
+	.our-bullet li{
+		width: 5px;
+		height: 5px;
+	}
+
+	.our-bullet{
+		bottom: 18px;
+	}
+
+	.we-img img {
+    max-width: 110%;
+    margin-bottom: -15%;
+	}
+
+	.we-do {
+    margin-top: 40px;
+    background: #fafafa;
+    padding-top: 45px;
+	}
+
+	.work-nav ul li:after {
+    
+    height: 40px; 
+	}
+
+
+
+}
