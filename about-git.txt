@@ -5,6 +5,21 @@
 5c: git push -u origin master							-> Push for Upload Files
 6s: git add FileName.FileExtension 						-> Specific file uploading cmd file full name with its extension
 
+===============================================================================
+
+modified git reupload.
+
+7s: git status
+8s: git add . 
+9s: git commit -m "index.html modified"
+10s: git push origin master
+
+===============================================================================
+
+git download.
+
+11s: git clone (copy and past file address below the download button)
+
 
 (optional) : git push origin master-f 
 
