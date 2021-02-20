@@ -18,7 +18,8 @@ modified git reupload.
 
 git download.
 
-11s: git clone (copy and past file address below the download button)
+11s: git clone (copy and past file address below the download button) => only download uploaded file
+12s: git pull (copy and past file address below the download button) => download uploaded file & also if any file is modified through github
 
 
 (optional) : git push origin master-f 
