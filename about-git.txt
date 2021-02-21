@@ -49,3 +49,8 @@ effects:
 
 https://fancyapps.com/fancybox/3/
 
+<a data-fancybox href="anything" ="images/df.png">  // attribute use korte hobe
+  <img src="images/df.png" alt="">
+ </a>
+ 
+ 
